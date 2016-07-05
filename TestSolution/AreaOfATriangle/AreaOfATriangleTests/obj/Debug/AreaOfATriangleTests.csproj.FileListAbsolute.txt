@@ -1,0 +1,9 @@
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangleTests\obj\Debug\AreaOfATriangleTests.csprojResolveAssemblyReference.cache
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangleTests\bin\Debug\AreaOfATriangleTests.dll
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangleTests\bin\Debug\AreaOfATriangleTests.pdb
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangleTests\bin\Debug\AreaOfATriangle.exe
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangleTests\bin\Debug\AreaOfATriangle.pdb
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangleTests\obj\Debug\AreaOfATriangleTests.dll
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangleTests\obj\Debug\AreaOfATriangleTests.pdb

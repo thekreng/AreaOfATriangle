@@ -1,0 +1,5 @@
+C:\_git_repo\SOURCE_CODE_\TestApp\TriangleArea\TriangleArea\bin\Debug\TriangleArea.dll
+C:\_git_repo\SOURCE_CODE_\TestApp\TriangleArea\TriangleArea\bin\Debug\TriangleArea.pdb
+C:\_git_repo\SOURCE_CODE_\TestApp\TriangleArea\TriangleArea\obj\Debug\TriangleArea.csprojResolveAssemblyReference.cache
+C:\_git_repo\SOURCE_CODE_\TestApp\TriangleArea\TriangleArea\obj\Debug\TriangleArea.dll
+C:\_git_repo\SOURCE_CODE_\TestApp\TriangleArea\TriangleArea\obj\Debug\TriangleArea.pdb

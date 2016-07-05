@@ -1,0 +1,6 @@
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangle\bin\Debug\AreaOfATriangle.exe.config
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangle\bin\Debug\AreaOfATriangle.exe
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangle\bin\Debug\AreaOfATriangle.pdb
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangle\obj\Debug\AreaOfATriangle.exe
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangle\obj\Debug\AreaOfATriangle.pdb
+C:\_git_repo\SOURCE_CODE_\TestApp\AreaOfATriangle\AreaOfATriangle\obj\Debug\AreaOfATriangle.csprojResolveAssemblyReference.cache
